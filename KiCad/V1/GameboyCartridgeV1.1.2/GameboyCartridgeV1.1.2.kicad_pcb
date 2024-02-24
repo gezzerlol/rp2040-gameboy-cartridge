@@ -4757,7 +4757,7 @@
 
   (footprint "LOGO" (layer "B.Cu")
     (tstamp 2cc4f4a2-619e-4f50-ad35-400985738d1a)
-    (at 131.318 89.916 180)
+    (at 131.572 69.215 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
@@ -6116,7 +6116,7 @@
 
   (footprint "LOGO" (layer "B.Cu")
     (tstamp 4be54f65-09b3-45dd-be99-bc4054499345)
-    (at 92.837 67.437 180)
+    (at 91.567 67.437 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at -2.54 -6.35) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
@@ -6710,14 +6710,11 @@
     (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp d6dfaa40-e45b-473d-9506-52affedf7817))
   (gr_line (start 133.47 55.709673) (end 133.47 58.309673)
     (stroke (width 0.15) (type solid)) (layer "Edge.Cuts") (tstamp fe9d9b63-7f54-4109-8bbd-7b6afa35c9f2))
-  (gr_text "speedboy\nhttp://gezz.org" (at 88.011 61.849) (layer "B.SilkS") (tstamp 96f20c05-be4b-4dd6-9f7f-9262d8157b06)
+  (gr_text "V1.1.2 by speedboy\nhttp://gezz.org" (at 86.487 61.722) (layer "B.SilkS") (tstamp 96f20c05-be4b-4dd6-9f7f-9262d8157b06)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify right bottom mirror))
   )
-  (gr_text "Croco Cartridge\nV1.1 11/2023\nSQ" (at 135.382 104.394) (layer "B.SilkS") (tstamp a3ad5344-6f9b-4e36-960e-f6dc8fa0df24)
+  (gr_text "Croco Cartridge\nV1.1 11/2023\nSQ" (at 136.779 83.058) (layer "B.SilkS") (tstamp a3ad5344-6f9b-4e36-960e-f6dc8fa0df24)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
-  )
-  (gr_text "http://gezz.org" (at 86.487 57.785) (layer "F.Mask") (tstamp 41f08a9b-d0b8-46e6-bf36-4ba70e030178)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
 
   (segment (start 114.7064 87.7327) (end 114.2989 87.3252) (width 0.2) (layer "F.Cu") (net 1) (tstamp 016a5522-2c25-4781-b9d9-f4f3547d7831))
