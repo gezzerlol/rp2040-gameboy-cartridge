@@ -1,4 +1,4 @@
-2 layer pcb version of Shilga's RP2040 Gameboy flash cartridge. Also replaced some components with 
+2 layer pcb version of Shilga's RP2040 Gameboy flash cartridge. Also replaced some components with bigger packages, and easier to find components.
 
 Changes:
 -Removed inner layers, instead routed buses and tracks in place of the power planes at the back layer. Also one single signal track is moved to the back layer.
